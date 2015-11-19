@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewExplosion</string>
+    <string name="hello_world">燃烧吧，爆炸吧</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
